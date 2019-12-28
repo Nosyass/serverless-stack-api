@@ -22,7 +22,7 @@ A Serverless starter that adds ES7 syntax, serverless-offline, linting, environm
 
 ### Demo
 
-A demo version of this service is hosted on AWS - [`https://z6pv80ao4l.execute-api.us-east-1.amazonaws.com/dev/hello`](https://z6pv80ao4l.execute-api.us-east-1.amazonaws.com/dev/hello)
+A demo version of this service is hosted on AWS - [`Availble soon`](Availble soon)
 
 And here is the ES7 source behind it
 
